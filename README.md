@@ -5,9 +5,9 @@
 ![readme](honey.gif)
 ## Hi there 👋 I'm Alan
 
-*building. learning. creating.*
+Building. learning. creating.
 
-*A Artificial Intelligence and Machine Learning student passionate about AI, Machine Learning, Neural Networks, and Intelligent Systems. I enjoy transforming ideas into practical applications, whether it's developing AI-powered tools, training machine learning models, or building autonomous robotic systems.*
+** A Artificial Intelligence and Machine Learning student passionate about AI, Machine Learning, Neural Networks, and Intelligent Systems. I enjoy transforming ideas into practical applications, whether it's developing AI-powered tools, training machine learning models, or building autonomous robotic systems. **
 ---
 
 ### 🚀 What I Do and still learning ⏩ 
