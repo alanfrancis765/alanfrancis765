@@ -7,7 +7,7 @@
 
 Building. learning. creating.
 
-** A Artificial Intelligence and Machine Learning student passionate about AI, Machine Learning, Neural Networks, and Intelligent Systems. I enjoy transforming ideas into practical applications, whether it's developing AI-powered tools, training machine learning models, or building autonomous robotic systems. **
+<small>A Artificial Intelligence and Machine Learning student passionate about AI, Machine Learning, Neural Networks, and Intelligent Systems. I enjoy transforming ideas into practical applications, whether it's developing AI-powered tools, training machine learning models, or building autonomous robotic systems.</small>
 ---
 
 ### 🚀 What I Do and still learning ⏩ 
