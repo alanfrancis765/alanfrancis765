@@ -2,7 +2,7 @@
 <!-- To display your GIF, uncomment the line below by removing the <!-- and --> 
 <!-- Then, replace 'YOUR_GIF_URL_OR_PATH_HERE' with your actual GIF link -->
 <!-- <img src="YOUR_GIF_URL_OR_PATH_HERE" alt="Alan's Profile GIF" width="100%"> -->
-
+![readme](honey.gif)
 ## Hi there 👋 I'm Alan
 
 **building. learning. creating.**
