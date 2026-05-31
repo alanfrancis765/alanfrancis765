@@ -1,22 +1,19 @@
-<!-- 🖼️ YOUR TOP GIF GOES HERE -->
-<!-- To display your GIF, uncomment the line below by removing the <!-- and --> 
-<!-- Then, replace 'YOUR_GIF_URL_OR_PATH_HERE' with your actual GIF link -->
-<!-- <img src="YOUR_GIF_URL_OR_PATH_HERE" alt="Alan's Profile GIF" width="100%"> -->
 ![readme](honey.gif)
-## Hi there 👋 I'm Alan
 
-Building. learning. creating.
+# Hi there 👋 I'm Alan
+## Building. learning. creating.
 
-<small>A Artificial Intelligence and Machine Learning student passionate about AI, Machine Learning, Neural Networks, and Intelligent Systems. I enjoy transforming ideas into practical applications, whether it's developing AI-powered tools, training machine learning models, or building autonomous robotic systems.</small>
+An artificial intelligence and machine learning student passionate about ai, machine learning, neural networks, and intelligent systems. i enjoy transforming ideas into practical applications, whether it's developing ai-powered tools, training machine learning models, or building autonomous robotic systems.
+
 ---
 
 ### 🚀 What I Do and still learning ⏩ 
 
-* **🤖Artificial Intelligence & Machine Learning**: Actively building models and web applications using **Python** and **Streamlit**.
-* **🧠 Natural Language Processing**: Building and experimenting with language models, semantic analysis, and multimodal systems to process textual and contextual data.
-* **🚗Robotics & Navigation**: Exploring mobile robot kinematics, sensor integration, and advanced navigation strategies.
-* **💡Algorithmic Problem Solving**: Trying to learn and solving coding challenges, optimizing algorithms, and strengthening problem-solving skills through data structures and competitive programming.
-* **🧠Artificial Neural Network**: Exploring neural network architectures, learning algorithms, and their applications in intelligent systems.
+* **🤖 AI & ML**: Building models and web apps using Python and Streamlit.
+* **🧠 NLP**: Experimenting with language models, semantic analysis, and multimodal systems.
+* **🚗 Robotics**: Exploring mobile robot kinematics, sensor integration, and navigation.
+* **💡 Algorithms**: Solving coding challenges and strengthening competitive programming skills.
+* **🧠 Neural Networks**: Exploring network architectures and intelligent systems.
 ---
 
 ### 🤝 Connect With Me
